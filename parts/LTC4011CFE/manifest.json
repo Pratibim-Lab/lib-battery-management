@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4011CFE:LTC4011CFE",
+  "name": "LTC4011CFE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4011CFE.kicad_sym",
+  "description": "High efficiency standalone NiMH battery charger, HTSSOP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf",
+  "keywords": "NiMH nickel battery charger",
+  "footprint": "Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4011CFE/",
+  "part_path": "parts/LTC4011CFE",
+  "symbol_file": "parts/LTC4011CFE/LTC4011CFE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:10.322Z"
+}

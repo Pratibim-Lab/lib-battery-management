@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ76940DBT:BQ76940DBT",
+  "name": "BQ76940DBT",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ76940DBT.kicad_sym",
+  "description": "Lithium battery monitor, 9-15 cells, integrated balancing, I2C interface, TSSOP-44",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq76940.pdf",
+  "keywords": "lithium battery balance charge afe",
+  "footprint": "Package_SO:TSSOP-44_4.4x11.2mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ76940DBT/",
+  "part_path": "parts/BQ76940DBT",
+  "symbol_file": "parts/BQ76940DBT/BQ76940DBT.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:36.675Z"
+}

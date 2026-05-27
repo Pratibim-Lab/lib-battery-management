@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX17263xxTE:MAX17263xxTE",
+  "name": "MAX17263xxTE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX17263xxTE.kicad_sym",
+  "description": "Single/Multi-Cell Fuel Gauge, ModelGauge m5 EZ, Integrated LED Control, TDFN-14",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX17263.pdf",
+  "keywords": "fuel-gauge",
+  "footprint": "Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX17263xxTE/",
+  "part_path": "parts/MAX17263xxTE",
+  "symbol_file": "parts/MAX17263xxTE/MAX17263xxTE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:27.134Z"
+}

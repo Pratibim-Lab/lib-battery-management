@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/SLM6800:SLM6800",
+  "name": "SLM6800",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/SLM6800.kicad_sym",
+  "description": "1.5A, 2-Cell 8.4V, standalone switch-mode Li-Ion Charger, 5Vin, 750kHz, QFN-16",
+  "datasheet": "https://datasheet.lcsc.com/lcsc/1912111437_SOLA-IC-SLM6800_C388594.pdf",
+  "keywords": "battery charger dual-cell two-cell li-ion li-poly",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.15x2.15mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/SLM6800/",
+  "part_path": "parts/SLM6800",
+  "symbol_file": "parts/SLM6800/SLM6800.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:42:16.297Z"
+}

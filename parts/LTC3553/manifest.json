@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC3553:LTC3553",
+  "name": "LTC3553",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC3553.kicad_sym",
+  "description": "Micropower USB Power Manager With Li-Ion Charger, LDO and Buck Regulator, 4.2V float, QFN-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3553fc.pdf",
+  "keywords": "USB PMIC",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC3553/",
+  "part_path": "parts/LTC3553",
+  "symbol_file": "parts/LTC3553/LTC3553.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:59.033Z"
+}

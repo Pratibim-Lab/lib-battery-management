@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LC709203FQH-04TWG:LC709203FQH-04TWG",
+  "name": "LC709203FQH-04TWG",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LC709203FQH-04TWG.kicad_sym",
+  "description": "Single LiPo battery fuel gauge, I2C, type 04, WDFN-8",
+  "datasheet": "https://www.onsemi.com/download/data-sheet/pdf/lc709203f-d.pdf",
+  "keywords": "Battery gauge I2C",
+  "footprint": "Package_DFN_QFN:WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm",
+  "extends": "LC709203FQH-01TWG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LC709203FQH-04TWG/",
+  "part_path": "parts/LC709203FQH-04TWG",
+  "symbol_file": "parts/LC709203FQH-04TWG/LC709203FQH-04TWG.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:48.938Z"
+}

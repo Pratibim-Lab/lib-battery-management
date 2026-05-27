@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/DW01A:DW01A",
+  "name": "DW01A",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/DW01A.kicad_sym",
+  "description": "Overcharge, overcurrent and overdischarge protection IC for single cell lithium-ion/polymer battery",
+  "datasheet": "https://hmsemi.com/downfile/DW01A.PDF",
+  "keywords": "battery protection li-ion lipo overcurrent overdischarge overcharge",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/DW01A/",
+  "part_path": "parts/DW01A",
+  "symbol_file": "parts/DW01A/DW01A.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:44.951Z"
+}

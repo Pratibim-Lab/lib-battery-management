@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ24072RGT:BQ24072RGT",
+  "name": "BQ24072RGT",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ24072RGT.kicad_sym",
+  "description": "USB-Friendly Li-Ion Battery Charger and Power-Path Management, VQFN-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq24072.pdf",
+  "keywords": "USB Charger",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ24072RGT/",
+  "part_path": "parts/BQ24072RGT",
+  "symbol_file": "parts/BQ24072RGT/BQ24072RGT.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:54.060Z"
+}

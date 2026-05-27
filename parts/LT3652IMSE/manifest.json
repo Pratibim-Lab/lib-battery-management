@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LT3652IMSE:LT3652IMSE",
+  "name": "LT3652IMSE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LT3652IMSE.kicad_sym",
+  "description": "Step-down battery charger for solar power, Lithium Phosphate (LiFePO4), Lead (Pb), Lithium+ (Li+) , 4.95V to 32V VDD, 2A, -40 to +125 degree Celsius, MSOP-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3652fe.pdf",
+  "keywords": "battery charger solar",
+  "footprint": "Package_SO:MSOP-12-1EP_3x4.039mm_P0.65mm_EP1.651x2.845mm",
+  "extends": "LT3652EMSE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LT3652IMSE/",
+  "part_path": "parts/LT3652IMSE",
+  "symbol_file": "parts/LT3652IMSE/LT3652IMSE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:55.071Z"
+}

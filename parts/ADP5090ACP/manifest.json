@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/ADP5090ACP:ADP5090ACP",
+  "name": "ADP5090ACP",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/ADP5090ACP.kicad_sym",
+  "description": "Ultralow Power Boost Regulator with MPPT and Charge Management, LFCSP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5090.pdf",
+  "keywords": "boost regulator MPPT charge",
+  "footprint": "Package_CSP:LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/ADP5090ACP/",
+  "part_path": "parts/ADP5090ACP",
+  "symbol_file": "parts/ADP5090ACP/ADP5090ACP.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:40.212Z"
+}

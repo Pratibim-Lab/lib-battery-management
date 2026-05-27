@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ25895RTW:BQ25895RTW",
+  "name": "BQ25895RTW",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ25895RTW.kicad_sym",
+  "description": "I2C Controlled Single Cell (Li-Ion / Li-Polymer) 5A Fast Charger with MaxCharge, USB BC1.2 Detection, 3.9..14V VBUS, 3.840..4.608V charge voltage range, 1.5 MHz (buck mode) and 500 kHz /1.5 MHz (boost mode), WQFN-24",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq25895.pdf",
+  "keywords": "1-cell Battery-Charger Power-Path-Management OTG",
+  "footprint": "Package_DFN_QFN:Texas_RTW_WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ25895RTW/",
+  "part_path": "parts/BQ25895RTW",
+  "symbol_file": "parts/BQ25895RTW/BQ25895RTW.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:19.287Z"
+}

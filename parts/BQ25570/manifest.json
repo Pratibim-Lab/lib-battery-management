@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ25570:BQ25570",
+  "name": "BQ25570",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ25570.kicad_sym",
+  "description": "Nano Power Boost Charger and Buck Converter for Energy Harvester Powered Applications, QFN-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq25570.pdf",
+  "keywords": "harvester solar TEG charger li-on buck",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_3.5x3.5mm_P0.5mm_EP2x2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ25570/",
+  "part_path": "parts/BQ25570",
+  "symbol_file": "parts/BQ25570/BQ25570.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:13.599Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ2501x:BQ2501x",
+  "name": "BQ2501x",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ2501x.kicad_sym",
+  "description": "500mA Li-Ion Charger w/Integrated 150mA Synchronous Buck Converter, QFN-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq25010.pdf",
+  "keywords": "Li-ion buck",
+  "footprint": "Package_DFN_QFN:Texas_VQFN-RHL-20_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ2501x/",
+  "part_path": "parts/BQ2501x",
+  "symbol_file": "parts/BQ2501x/BQ2501x.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:09.407Z"
+}

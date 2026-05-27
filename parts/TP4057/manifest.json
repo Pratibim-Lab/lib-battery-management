@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/TP4057:TP4057",
+  "name": "TP4057",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/TP4057.kicad_sym",
+  "description": "Constant-current/constant-voltage linear charger for single cell lithium-ion batteries with 2.9V Trickle Charge, 4.5V to 6.5V VDD, -40 to +85 degree Celsius, TSOT-23-6",
+  "datasheet": "http://toppwr.com/uploadfile/file/20230304/640302a47b738.pdf",
+  "keywords": "Constant-current constant-voltage linear charger single-cell lithium-ion battery",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/TP4057/",
+  "part_path": "parts/TP4057",
+  "symbol_file": "parts/TP4057/TP4057.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:42:18.319Z"
+}

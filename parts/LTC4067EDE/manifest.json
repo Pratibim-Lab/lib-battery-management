@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4067EDE:LTC4067EDE",
+  "name": "LTC4067EDE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4067EDE.kicad_sym",
+  "description": "Li-Ion Battery Manager and Charger, Power Switcher, 1.25A max charge current, DFN-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4067f.pdf",
+  "keywords": "Polymer NTC constant-current",
+  "footprint": "Package_DFN_QFN:DFN-12-1EP_3x4mm_P0.5mm_EP1.7x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4067EDE/",
+  "part_path": "parts/LTC4067EDE",
+  "symbol_file": "parts/LTC4067EDE/LTC4067EDE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:17.261Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LGS5500EP:LGS5500EP",
+  "name": "LGS5500EP",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LGS5500EP.kicad_sym",
+  "description": "LiPo charger and 5V boost converter, 4.5-5.5V input, 4.2-4.4V battery, 400-1000mA charge current, 800mA boost output, SOIC-8-1EP",
+  "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304071430_Legend-Si-LGS5500EP_C5280699.pdf",
+  "keywords": "lipo lithium battery charger boost",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LGS5500EP/",
+  "part_path": "parts/LGS5500EP",
+  "symbol_file": "parts/LGS5500EP/LGS5500EP.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:49.925Z"
+}

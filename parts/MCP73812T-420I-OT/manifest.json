@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MCP73812T-420I-OT:MCP73812T-420I-OT",
+  "name": "MCP73812T-420I-OT",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MCP73812T-420I-OT.kicad_sym",
+  "description": "Simple, Miniature Single-Cell, Fully Integrated Li-Ion / Li-Polymer Charge Management Controllers, 50mA-500mA, 4.2V, SOT23-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22036b.pdf",
+  "keywords": "Lithium-Ion Battery Charger",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MCP73812T-420I-OT/",
+  "part_path": "parts/MCP73812T-420I-OT",
+  "symbol_file": "parts/MCP73812T-420I-OT/MCP73812T-420I-OT.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:45.448Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4001:LTC4001",
+  "name": "LTC4001",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4001.kicad_sym",
+  "description": "Single cell (4.2V) programmable synchronous buck Li-Ion charger, 2A, 5.5V input, QFN-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4001f.pdf",
+  "keywords": "Li-Ion charger",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.15x2.15mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4001/",
+  "part_path": "parts/LTC4001",
+  "symbol_file": "parts/LTC4001/LTC4001.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:04.329Z"
+}

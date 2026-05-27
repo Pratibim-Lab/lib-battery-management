@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX17261xxWL:MAX17261xxWL",
+  "name": "MAX17261xxWL",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX17261xxWL.kicad_sym",
+  "description": "5.1μA Multi-Cell Fuel Gauge with ModelGauge m5 EZ, WLP-9",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX17261.pdf",
+  "keywords": "Charge pump battery",
+  "footprint": "Package_BGA:Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX17261xxWL/",
+  "part_path": "parts/MAX17261xxWL",
+  "symbol_file": "parts/MAX17261xxWL/MAX17261xxWL.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:26.115Z"
+}

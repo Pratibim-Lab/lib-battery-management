@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ29330DBT:BQ29330DBT",
+  "name": "BQ29330DBT",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ29330DBT.kicad_sym",
+  "description": "2/3/4 Cell Lithium-Ion or Lithium-Polymer Battery Protection AFE, TSSOP-30",
+  "datasheet": "https://www.ti.com/lit/gpn/bq29330",
+  "keywords": "Li-ion Li-poly LiPo Texas-Instruments cell-balancing I2C",
+  "footprint": "Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ29330DBT/",
+  "part_path": "parts/BQ29330DBT",
+  "symbol_file": "parts/BQ29330DBT/BQ29330DBT.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:26.222Z"
+}

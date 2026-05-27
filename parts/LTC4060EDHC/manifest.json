@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4060EDHC:LTC4060EDHC",
+  "name": "LTC4060EDHC",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4060EDHC.kicad_sym",
+  "description": "Complete fast charging system for 2, 3 or 4 series NiMH or NiCd batteries, 0.4 to 2A, 4.5 to 10V VDD, -40 to +85 degree Celcisus, DFN-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/405442xf.pdf",
+  "keywords": "battery charger",
+  "footprint": "Package_DFN_QFN:DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4060EDHC/",
+  "part_path": "parts/LTC4060EDHC",
+  "symbol_file": "parts/LTC4060EDHC/LTC4060EDHC.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:15.157Z"
+}

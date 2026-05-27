@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MCP73831-5-OT:MCP73831-5-OT",
+  "name": "MCP73831-5-OT",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MCP73831-5-OT.kicad_sym",
+  "description": "Single cell, Li-Ion/Li-Po charge management controller, 4.50V, Tri-State Status Output, in SOT23-5 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf",
+  "keywords": "battery charger lithium",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "MCP73831-2-OT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MCP73831-5-OT/",
+  "part_path": "parts/MCP73831-5-OT",
+  "symbol_file": "parts/MCP73831-5-OT/MCP73831-5-OT.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:54.588Z"
+}

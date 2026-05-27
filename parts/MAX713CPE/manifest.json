@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX713CPE:MAX713CPE",
+  "name": "MAX713CPE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX713CPE.kicad_sym",
+  "description": "Fast-charge Nickel Cadmium (NiCd) from a DC source, 0 to +70 Degree Celsius, PDIP-16",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf",
+  "keywords": "battery charger controller",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "MAX712CPE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX713CPE/",
+  "part_path": "parts/MAX713CPE",
+  "symbol_file": "parts/MAX713CPE/MAX713CPE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:37.215Z"
+}

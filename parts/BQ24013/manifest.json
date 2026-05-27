@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ24013:BQ24013",
+  "name": "BQ24013",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ24013.kicad_sym",
+  "description": "Single-Chip Li-Ion Charge Management IC, VSON-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq24012.pdf",
+  "keywords": "Batter Charger Li-Ion",
+  "footprint": "Package_SON:Texas_DRC0010J_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ24013/",
+  "part_path": "parts/BQ24013",
+  "symbol_file": "parts/BQ24013/BQ24013.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:53.109Z"
+}

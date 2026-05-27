@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ24650:BQ24650",
+  "name": "BQ24650",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ24650.kicad_sym",
+  "description": "10A, 28V max voltage, Battery Charger w/600kHz NMOS-NMOS Synchronous Buck Converter for Solar, VQFN-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/bq24650.pdf",
+  "keywords": "li-ion lion lipo lithium polymer iron phosphate lead acid buck solar power point battery charger",
+  "footprint": "Package_DFN_QFN:Texas_RVA_VQFN-16-1EP_3.5x3.5mm_P0.5mm_EP2.14x2.14mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ24650/",
+  "part_path": "parts/BQ24650",
+  "symbol_file": "parts/BQ24650/BQ24650.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:08.414Z"
+}

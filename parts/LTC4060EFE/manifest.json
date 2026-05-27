@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4060EFE:LTC4060EFE",
+  "name": "LTC4060EFE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4060EFE.kicad_sym",
+  "description": "Complete fast charging system for 2, 3 or 4 series NiMH or NiCd batteries, 0.4 to 2A, 4.5 to 10V VDD, -40 to +85 degree Celcisus, TSSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/405442xf.pdf",
+  "keywords": "battery charger",
+  "footprint": "Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4060EFE/",
+  "part_path": "parts/LTC4060EFE",
+  "symbol_file": "parts/LTC4060EFE/LTC4060EFE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:16.255Z"
+}

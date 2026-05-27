@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ25798:BQ25798",
+  "name": "BQ25798",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ25798.kicad_sym",
+  "description": "I2C controlled, 5A Buck-Boost battery charger (1-4 cell, Li-Ion / Li-Polymer), USB BC1.2 / HVDCP detection, 3.6..24V VBUS, 3..18.8V charge voltage regulation, 0.75..1.5 MHz, VQFN-29 (Texas RQM0029A)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/bq25798.pdf",
+  "keywords": "Texas-Instruments fast-charger Power-Path-Management USB-OTG BQ25798RQMR",
+  "footprint": "Package_DFN_QFN:Texas_RQM0029A_VQFN-29_4x4mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ25798/",
+  "part_path": "parts/BQ25798",
+  "symbol_file": "parts/BQ25798/BQ25798.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:16.177Z"
+}

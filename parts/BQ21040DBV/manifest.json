@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ21040DBV:BQ21040DBV",
+  "name": "BQ21040DBV",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ21040DBV.kicad_sym",
+  "description": "Single cell, 0.8A Li-Ion/Li-Po linear charge management controller, up to 30V input, 4.2V charge voltage, Open-Drain Status Output, Temperature sense input, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/bq21040.pdf",
+  "keywords": "1-cell battery charger lithium",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ21040DBV/",
+  "part_path": "parts/BQ21040DBV",
+  "symbol_file": "parts/BQ21040DBV/BQ21040DBV.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:48.172Z"
+}

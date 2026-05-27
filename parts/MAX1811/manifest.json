@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX1811:MAX1811",
+  "name": "MAX1811",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX1811.kicad_sym",
+  "description": "USB Powered Li+ Charger, 4.1V/4.2V battery, 5V input, 0.1/0.5A charging current",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1811.pdf",
+  "keywords": "USB Battery Charger",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX1811/",
+  "part_path": "parts/MAX1811",
+  "symbol_file": "parts/MAX1811/MAX1811.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:28.203Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/TP4056-42-ESOP8:TP4056-42-ESOP8",
+  "name": "TP4056-42-ESOP8",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/TP4056-42-ESOP8.kicad_sym",
+  "description": "1A Standalone Linear Li-ion/LiPo single-cell battery charger, 4.2V ±1% charge voltage, VCC = 4.0..8.0V, SOIC-8 (SOP-8)",
+  "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121619_TOPPOWER-Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf",
+  "keywords": "lithium-ion lithium-polymer Li-Poly",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/TP4056-42-ESOP8/",
+  "part_path": "parts/TP4056-42-ESOP8",
+  "symbol_file": "parts/TP4056-42-ESOP8/TP4056-42-ESOP8.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:42:17.369Z"
+}

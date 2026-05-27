@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ51050BYFP:BQ51050BYFP",
+  "name": "BQ51050BYFP",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ51050BYFP.kicad_sym",
+  "description": "Qi v1.2, Wireless Power Receiver and Battery Charger, Vout 4.2V, DSBGA-28",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq51050b.pdf",
+  "keywords": "Qi Wireless Power Receiver Battery Charger 4.2V",
+  "footprint": "Package_BGA:Texas_DSBGA-28_1.9x3mm_Layout4x7_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ51050BYFP/",
+  "part_path": "parts/BQ51050BYFP",
+  "symbol_file": "parts/BQ51050BYFP/BQ51050BYFP.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:29.298Z"
+}

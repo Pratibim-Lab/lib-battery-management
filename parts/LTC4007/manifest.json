@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4007:LTC4007",
+  "name": "LTC4007",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4007.kicad_sym",
+  "description": "4A high efficiency standalone Li-ion battery charger, SSOP-24",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4007fc.pdf",
+  "keywords": "lithium ion polymer li-po battery",
+  "footprint": "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4007/",
+  "part_path": "parts/LTC4007",
+  "symbol_file": "parts/LTC4007/LTC4007.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:09.397Z"
+}

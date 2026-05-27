@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ25504:BQ25504",
+  "name": "BQ25504",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ25504.kicad_sym",
+  "description": "Energy Harvesting Boost Converter with Battery Management, VQFN-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq25504.pdf",
+  "keywords": "energy harvesting li-ion battery solar TEG",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ25504/",
+  "part_path": "parts/BQ25504",
+  "symbol_file": "parts/BQ25504/BQ25504.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:12.630Z"
+}

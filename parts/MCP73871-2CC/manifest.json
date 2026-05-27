@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MCP73871-2CC:MCP73871-2CC",
+  "name": "MCP73871-2CC",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MCP73871-2CC.kicad_sym",
+  "description": "Single cell, Li-Ion/Li-Po charge management controller, 4.20V, 6h safety timer, 3.1V LBO threshold",
+  "datasheet": "http://www.mouser.com/ds/2/268/22090a-52174.pdf",
+  "keywords": "battery charger lithium",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm",
+  "extends": "MCP73871",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MCP73871-2CC/",
+  "part_path": "parts/MCP73871-2CC",
+  "symbol_file": "parts/MCP73871-2CC/MCP73871-2CC.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:42:10.373Z"
+}

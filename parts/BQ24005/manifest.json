@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ24005:BQ24005",
+  "name": "BQ24005",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ24005.kicad_sym",
+  "description": "2-Cell Li-Ion Charge Management IC, HTSSOP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq24006.pdf",
+  "keywords": "2-Cell Li-Ion Charge",
+  "footprint": "Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.4x3.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ24005/",
+  "part_path": "parts/BQ24005",
+  "symbol_file": "parts/BQ24005/BQ24005.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:50.093Z"
+}

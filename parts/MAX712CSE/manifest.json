@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX712CSE:MAX712CSE",
+  "name": "MAX712CSE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX712CSE.kicad_sym",
+  "description": "Fast-charge Nickel Metal Hydride (NiMH) from a DC source, 0 to +70 Degree Celsius, SOIC-16",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf",
+  "keywords": "battery charger controller",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX712CSE/",
+  "part_path": "parts/MAX712CSE",
+  "symbol_file": "parts/MAX712CSE/MAX712CSE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:33.291Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC6803-4:LTC6803-4",
+  "name": "LTC6803-4",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC6803-4.kicad_sym",
+  "description": "Multicell Battery Stack Monitor, 12-cell max, multi-chemistry, integrated balancing, stackable, serial interface",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/680324fa.pdf",
+  "keywords": "battery balance afe",
+  "footprint": "Package_SO:SSOP-44_5.3x12.8mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC6803-4/",
+  "part_path": "parts/LTC6803-4",
+  "symbol_file": "parts/LTC6803-4/LTC6803-4.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:20.607Z"
+}

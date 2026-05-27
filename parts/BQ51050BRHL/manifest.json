@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ51050BRHL:BQ51050BRHL",
+  "name": "BQ51050BRHL",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ51050BRHL.kicad_sym",
+  "description": "Qi v1.2, Wireless Power Receiver and Battery Charger, Vout 4.2V, VQFN-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq51050b.pdf",
+  "keywords": "Qi Wireless Power Receiver Battery Charger 4.2V",
+  "footprint": "Package_DFN_QFN:Texas_VQFN-RHL-20",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ51050BRHL/",
+  "part_path": "parts/BQ51050BRHL",
+  "symbol_file": "parts/BQ51050BRHL/BQ51050BRHL.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:28.301Z"
+}

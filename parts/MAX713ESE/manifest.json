@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX713ESE:MAX713ESE",
+  "name": "MAX713ESE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX713ESE.kicad_sym",
+  "description": "Fast-charge Nickel Cadmium (NiCd) from a DC source, -40 to +85 Degree Celsius, SOIC-16",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf",
+  "keywords": "battery charger controller",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "MAX712CSE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX713ESE/",
+  "part_path": "parts/MAX713ESE",
+  "symbol_file": "parts/MAX713ESE/MAX713ESE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:40.318Z"
+}

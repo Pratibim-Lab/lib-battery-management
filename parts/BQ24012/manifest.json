@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ24012:BQ24012",
+  "name": "BQ24012",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ24012.kicad_sym",
+  "description": "Single-Chip Li-Ion Charge Management IC, DFN-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq24012.pdf",
+  "keywords": "Battery Charger Li-Ion",
+  "footprint": "Package_SON:VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ24012/",
+  "part_path": "parts/BQ24012",
+  "symbol_file": "parts/BQ24012/BQ24012.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:52.096Z"
+}

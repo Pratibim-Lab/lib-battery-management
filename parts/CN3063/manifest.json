@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/CN3063:CN3063",
+  "name": "CN3063",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/CN3063.kicad_sym",
+  "description": "Constant-current/constant voltage linear charger for single cell Li-ion and Li Polymer batteries ideally suited for solar powered systems, 0.6A, SOIC-8-1EP",
+  "datasheet": "https://www.lcsc.com/datasheet/C28078.pdf",
+  "keywords": "lithium-ion li-ion charger solar",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias",
+  "extends": "CN3163",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/CN3063/",
+  "part_path": "parts/CN3063",
+  "symbol_file": "parts/CN3063/CN3063.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:39.666Z"
+}

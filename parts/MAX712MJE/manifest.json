@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX712MJE:MAX712MJE",
+  "name": "MAX712MJE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX712MJE.kicad_sym",
+  "description": "Fast-charge Nickel Metal Hydride (NiMH) from a DC source, ceramic, -55 to +125 Degree Celsius, PDIP-16",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf",
+  "keywords": "battery charger controller",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "MAX712CPE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX712MJE/",
+  "part_path": "parts/MAX712MJE",
+  "symbol_file": "parts/MAX712MJE/MAX712MJE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:36.180Z"
+}

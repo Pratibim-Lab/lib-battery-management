@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ25886RGE:BQ25886RGE",
+  "name": "BQ25886RGE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ25886RGE.kicad_sym",
+  "description": "Standalone 2-Cell (Li-Ion / Li-Polymer), 2A Boost-Mode Battery Charger With PowerPath, USB BC1.2 Detection, USB On-The-Go Boost (OTG), 4.3..6.2V VBUS, 8.2/8.4/8.7/8.8V charge voltage, 9.2V BATOVP, 1.5MHz, VQFN-24",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq25886.pdf",
+  "keywords": "Power-Path-Management",
+  "footprint": "Package_DFN_QFN:Texas_RGE0024H_VQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ25886RGE/",
+  "part_path": "parts/BQ25886RGE",
+  "symbol_file": "parts/BQ25886RGE/BQ25886RGE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:17.155Z"
+}

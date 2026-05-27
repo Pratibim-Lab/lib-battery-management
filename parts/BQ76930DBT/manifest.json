@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ76930DBT:BQ76930DBT",
+  "name": "BQ76930DBT",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ76930DBT.kicad_sym",
+  "description": "Lithium battery monitor, 6-10 cells, integrated balancing, I2C interface, TSSOP-30",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq76930.pdf",
+  "keywords": "lithium battery balance charge afe",
+  "footprint": "Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ76930DBT/",
+  "part_path": "parts/BQ76930DBT",
+  "symbol_file": "parts/BQ76930DBT/BQ76930DBT.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:35.453Z"
+}

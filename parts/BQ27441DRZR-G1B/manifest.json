@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ27441DRZR-G1B:BQ27441DRZR-G1B",
+  "name": "BQ27441DRZR-G1B",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ27441DRZR-G1B.kicad_sym",
+  "description": "System Side Li Ion/Polymer Fuel Gauge, 4.30-4.35V, PDSON-12",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf",
+  "keywords": "Fuel Gauge",
+  "footprint": "Package_SON:Texas_S-PDSO-N12",
+  "extends": "BQ27441-G1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ27441DRZR-G1B/",
+  "part_path": "parts/BQ27441DRZR-G1B",
+  "symbol_file": "parts/BQ27441DRZR-G1B/BQ27441DRZR-G1B.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:22.225Z"
+}

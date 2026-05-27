@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX1647:MAX1647",
+  "name": "MAX1647",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX1647.kicad_sym",
+  "description": "Smart Battery Charger, 18V battery, 28V input, SMBus serial interface",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1647-MAX1648.pdf",
+  "keywords": "battery charger",
+  "footprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX1647/",
+  "part_path": "parts/MAX1647",
+  "symbol_file": "parts/MAX1647/MAX1647.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:23.078Z"
+}

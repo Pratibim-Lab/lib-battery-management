@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ24090DGQ:BQ24090DGQ",
+  "name": "BQ24090DGQ",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ24090DGQ.kicad_sym",
+  "description": "1A, Single-Input, SingleCell Li-Ion and Li-Pol BatteryCharger, HVSSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq24090.pdf",
+  "keywords": "battery charger singlecell li-ion li-poly",
+  "footprint": "Package_SO:HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ24090DGQ/",
+  "part_path": "parts/BQ24090DGQ",
+  "symbol_file": "parts/BQ24090DGQ/BQ24090DGQ.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:01.783Z"
+}

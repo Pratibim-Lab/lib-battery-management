@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ24167RGE:BQ24167RGE",
+  "name": "BQ24167RGE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ24167RGE.kicad_sym",
+  "description": "High efficiency switched mode Li-Ion and Li-Polymer battery charger, integrated MOSFETs, power path selector and JEITA compatible temperature sensing, Texas R-RGE0024H",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/bq24166.pdf",
+  "keywords": "Battery Charger Li-Ion Li-Poly",
+  "footprint": "Package_DFN_QFN:Texas_RGE0024H_VQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",
+  "extends": "BQ24166RGE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ24167RGE/",
+  "part_path": "parts/BQ24167RGE",
+  "symbol_file": "parts/BQ24167RGE/BQ24167RGE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:04.744Z"
+}

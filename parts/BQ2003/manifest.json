@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ2003:BQ2003",
+  "name": "BQ2003",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ2003.kicad_sym",
+  "description": "Standalone switchmode NiCd/NiMH battery charger, 2-4 cells, negative dV and dT/dt termination",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq2003.pdf",
+  "keywords": "battery nickel cadmium metal hydride",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ2003/",
+  "part_path": "parts/BQ2003",
+  "symbol_file": "parts/BQ2003/BQ2003.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:47.179Z"
+}

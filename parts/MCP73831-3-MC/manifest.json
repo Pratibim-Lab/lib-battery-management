@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MCP73831-3-MC:MCP73831-3-MC",
+  "name": "MCP73831-3-MC",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MCP73831-3-MC.kicad_sym",
+  "description": "Single cell, Li-Ion/Li-Po charge management controller, 4.35V, Tri-State Status Output, in DFN-8 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf",
+  "keywords": "battery charger lithium",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm",
+  "extends": "MCP73831-2-MC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MCP73831-3-MC/",
+  "part_path": "parts/MCP73831-3-MC",
+  "symbol_file": "parts/MCP73831-3-MC/MCP73831-3-MC.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:49.418Z"
+}

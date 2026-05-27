@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/DS2745U:DS2745U",
+  "name": "DS2745U",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/DS2745U.kicad_sym",
+  "description": "Current-flow, voltage and temperature measurement to support battery capacity monitoring, 2.5V to 4.5V VDD, -40 to +85 degree Celsius, TSSOP-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/DS2745.pdf",
+  "keywords": "battery capacity monitor I2C",
+  "footprint": "Package_SO:TSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/DS2745U/",
+  "part_path": "parts/DS2745U",
+  "symbol_file": "parts/DS2745U/DS2745U.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:43.906Z"
+}

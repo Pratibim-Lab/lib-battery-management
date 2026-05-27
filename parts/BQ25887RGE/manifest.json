@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ25887RGE:BQ25887RGE",
+  "name": "BQ25887RGE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ25887RGE.kicad_sym",
+  "description": "I2C Controlled 2-Cell (Li-Ion / Li-Polymer), 2A boost-mode battery charger with cell balancing for USB input, 3.9..6.2V VBUS, 3.4..4.6V charge voltage regulation range (per cell), 1.5 MHz, VQFN-24",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/bq25887.pdf",
+  "keywords": "Texas-Instruments",
+  "footprint": "Package_DFN_QFN:Texas_RGE0024H_VQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ25887RGE/",
+  "part_path": "parts/BQ25887RGE",
+  "symbol_file": "parts/BQ25887RGE/BQ25887RGE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:18.104Z"
+}

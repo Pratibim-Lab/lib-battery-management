@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX17261xxTD:MAX17261xxTD",
+  "name": "MAX17261xxTD",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX17261xxTD.kicad_sym",
+  "description": "5.1μA Multi-Cell Fuel Gauge with ModelGauge m5 EZ, TDFN-14",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX17261.pdf",
+  "keywords": "Charge pump battery",
+  "footprint": "Package_DFN_QFN:TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX17261xxTD/",
+  "part_path": "parts/MAX17261xxTD",
+  "symbol_file": "parts/MAX17261xxTD/MAX17261xxTD.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:25.034Z"
+}

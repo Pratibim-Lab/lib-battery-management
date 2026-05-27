@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4054XES5-4.2:LTC4054XES5-4.2",
+  "name": "LTC4054XES5-4.2",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4054XES5-4.2.kicad_sym",
+  "description": "Constant-current/constant-voltage linear charger for single cell lithium-ion batteries no Trickle Charge, 4.5V to 6.5V VDD, -40 to +85 degree Celsius, TSOT-23-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/405442xf.pdf",
+  "keywords": "Constant-current constant-voltage linear charger single cell lithium-ion battery",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "LTC4054ES5-4.2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4054XES5-4.2/",
+  "part_path": "parts/LTC4054XES5-4.2",
+  "symbol_file": "parts/LTC4054XES5-4.2/LTC4054XES5-4.2.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:12.331Z"
+}

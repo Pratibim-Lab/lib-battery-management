@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/AP9101CK:AP9101CK",
+  "name": "AP9101CK",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/AP9101CK.kicad_sym",
+  "description": "Li+ Battery Protection IC for Single Cell Pack, SOT-23-5",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP9101C.pdf",
+  "keywords": "battery protection li-ion li-po",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/AP9101CK/",
+  "part_path": "parts/AP9101CK",
+  "symbol_file": "parts/AP9101CK/AP9101CK.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:43.272Z"
+}

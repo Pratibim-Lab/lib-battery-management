@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ25173DSG:BQ25173DSG",
+  "name": "BQ25173DSG",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ25173DSG.kicad_sym",
+  "description": "800-mA Linear Charger for 1- to 4-Cell Supercapacitor, input 3 to 18v, WSON-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/bq25173.pdf",
+  "keywords": "linear charger supercapacitor",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ25173DSG/",
+  "part_path": "parts/BQ25173DSG",
+  "symbol_file": "parts/BQ25173DSG/BQ25173DSG.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:11.475Z"
+}

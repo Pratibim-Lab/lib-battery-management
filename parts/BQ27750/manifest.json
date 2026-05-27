@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ27750:BQ27750",
+  "name": "BQ27750",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ27750.kicad_sym",
+  "description": "System Side Li Ion/Polymer Fuel Gauge, VSON-12",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq27750.pdf",
+  "keywords": "Fuel Gauge",
+  "footprint": "Package_SON:Texas_S-PDSO-N12",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ27750/",
+  "part_path": "parts/BQ27750",
+  "symbol_file": "parts/BQ27750/BQ27750.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:25.138Z"
+}

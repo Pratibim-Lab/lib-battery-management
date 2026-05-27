@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/APW7261:APW7261",
+  "name": "APW7261",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/APW7261.kicad_sym",
+  "description": "USB-OTG switch-mode lithium battery charger, WLCSP-20",
+  "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2007032014_Anpec-Elec-APW7261HAI-TRG_C691404.pdf",
+  "keywords": "lipo",
+  "footprint": "Package_CSP:Anpec_WLCSP-20_1.76x2.03mm_Layout4x5_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/APW7261/",
+  "part_path": "parts/APW7261",
+  "symbol_file": "parts/APW7261/APW7261.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:39:45.135Z"
+}

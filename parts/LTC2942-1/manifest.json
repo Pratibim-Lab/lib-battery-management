@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC2942-1:LTC2942-1",
+  "name": "LTC2942-1",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC2942-1.kicad_sym",
+  "description": "1A Battery Gas Gauge with Internal Sense Resistor and Temperature/Voltage Measurement, DFN-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/29421f.pdf",
+  "keywords": "Fuel gauge coulomb counter I2C",
+  "footprint": "Package_DFN_QFN:DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm",
+  "extends": "LTC2942",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC2942-1/",
+  "part_path": "parts/LTC2942-1",
+  "symbol_file": "parts/LTC2942-1/LTC2942-1.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:56.010Z"
+}

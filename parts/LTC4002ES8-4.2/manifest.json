@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4002ES8-4.2:LTC4002ES8-4.2",
+  "name": "LTC4002ES8-4.2",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4002ES8-4.2.kicad_sym",
+  "description": "Standalone Li-Ion Switch Mode Battery Charger, 4.7-22V input, single cell, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4002f.pdf",
+  "keywords": "lithium li-ion battery charger",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4002ES8-4.2/",
+  "part_path": "parts/LTC4002ES8-4.2",
+  "symbol_file": "parts/LTC4002ES8-4.2/LTC4002ES8-4.2.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:07.402Z"
+}

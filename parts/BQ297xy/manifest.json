@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ297xy:BQ297xy",
+  "name": "BQ297xy",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ297xy.kicad_sym",
+  "description": "Voltage and Current Protection for Single-Cell Li-Ion and Li-Polymer Batteries",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq2970.pdf",
+  "keywords": "protection Li-Ion Li-Pol",
+  "footprint": "Package_SON:WSON-6_1.5x1.5mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ297xy/",
+  "part_path": "parts/BQ297xy",
+  "symbol_file": "parts/BQ297xy/BQ297xy.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:27.321Z"
+}

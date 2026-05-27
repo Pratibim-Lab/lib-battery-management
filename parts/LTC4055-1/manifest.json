@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/LTC4055-1:LTC4055-1",
+  "name": "LTC4055-1",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/LTC4055-1.kicad_sym",
+  "description": "USB Power Controller and Li-Ion Charger (4.1V Float Voltage)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4055fb.pdf",
+  "keywords": "charger PMIC Liion USB",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.15x2.15mm",
+  "extends": "LTC4055",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/LTC4055-1/",
+  "part_path": "parts/LTC4055-1",
+  "symbol_file": "parts/LTC4055-1/LTC4055-1.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:13.296Z"
+}

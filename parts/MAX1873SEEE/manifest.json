@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/MAX1873SEEE:MAX1873SEEE",
+  "name": "MAX1873SEEE",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/MAX1873SEEE.kicad_sym",
+  "description": "Charger for 3 lithium-ion (Li+), 7/9 NickelCadium (NiCD) cells or 7/9 NickelMetalHydride (NiMH), 9 to 28V VDD, -40 to +85 degree Celsius, QSOP-16",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1873.pdf",
+  "keywords": "li-ion battery charger",
+  "footprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "MAX1873REEE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/MAX1873SEEE/",
+  "part_path": "parts/MAX1873SEEE",
+  "symbol_file": "parts/MAX1873SEEE/MAX1873SEEE.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:41:30.076Z"
+}

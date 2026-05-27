@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ78350DBT-R1:BQ78350DBT-R1",
+  "name": "BQ78350DBT-R1",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ78350DBT-R1.kicad_sym",
+  "description": "Lithium battery fuel gauge, battery management controller for BQ769x0, TSSOP-30",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq78350-r1.pdf",
+  "keywords": "battery management Li-Ion gauge controller",
+  "footprint": "Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm",
+  "extends": "BQ78350DBT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ78350DBT-R1/",
+  "part_path": "parts/BQ78350DBT-R1",
+  "symbol_file": "parts/BQ78350DBT-R1/BQ78350DBT-R1.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:37.716Z"
+}

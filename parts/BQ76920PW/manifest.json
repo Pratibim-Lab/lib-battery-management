@@ -1,0 +1,17 @@
+{
+  "id": "Battery_Management/BQ76920PW:BQ76920PW",
+  "name": "BQ76920PW",
+  "library": "Battery_Management",
+  "file": "Battery_Management.kicad_symdir/BQ76920PW.kicad_sym",
+  "description": "Lithium battery monitor, 3-5 cells, integrated balancing, I2C interface, TSSOP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq76920.pdf",
+  "keywords": "lithium battery balance charge afe",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-battery-management@master/parts/BQ76920PW/",
+  "part_path": "parts/BQ76920PW",
+  "symbol_file": "parts/BQ76920PW/BQ76920PW.kicad_sym",
+  "source_library": "Battery_Management.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:40:34.475Z"
+}
